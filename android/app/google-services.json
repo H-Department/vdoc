@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "786766368924",
+    "project_id": "vdoc-b4565",
+    "storage_bucket": "vdoc-b4565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:786766368924:android:1aff3bc2c13f6e9524dd59",
+        "android_client_info": {
+          "package_name": "com.example.vdoc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMP37n5EJOOOWYpKQptB-9HLOjtTohdNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
